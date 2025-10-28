@@ -1,0 +1,5 @@
+2025-07-13T23:08:11.999+05:30  INFO 38740 --- [FoodOrder] [RMI TCP Connection(43)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-07-13T23:08:12.063+05:30 DEBUG 38740 --- [FoodOrder] [RMI TCP Connection(43)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2025-07-13T23:08:12.075+05:30 DEBUG 38740 --- [FoodOrder] [RMI TCP Connection(43)-127.0.0.1] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@e98770d, started on Sun Jul 13 22:23:57 IST 2025
+2025-07-13T23:08:12.352+05:30  INFO 38740 --- [FoodOrder] [RMI TCP Connection(43)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T23:08:12.442+05:30  INFO 38740 --- [FoodOrder] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete

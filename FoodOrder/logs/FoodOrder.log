@@ -1,0 +1,5 @@
+2025-10-20T13:41:02.768+05:30  INFO 12964 --- [FoodOrder] [RMI TCP Connection(3)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-20T13:41:02.797+05:30  INFO 12964 --- [FoodOrder] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-10-20T13:41:02.806+05:30  INFO 12964 --- [FoodOrder] [RMI TCP Connection(3)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-10-20T13:41:02.806+05:30  INFO 12964 --- [FoodOrder] [RMI TCP Connection(3)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : test - Shutdown initiated...
+2025-10-20T13:41:02.823+05:30  INFO 12964 --- [FoodOrder] [RMI TCP Connection(3)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : test - Shutdown completed.

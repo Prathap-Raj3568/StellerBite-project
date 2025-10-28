@@ -1,0 +1,6 @@
+2025-07-13T23:08:12.549+05:30  INFO 38740 --- [FoodOrder] [RMI TCP Connection(43)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-07-13T23:08:12.662+05:30  INFO 38740 --- [FoodOrder] [RMI TCP Connection(43)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : test - Shutdown initiated...
+2025-07-13T23:08:12.709+05:30  INFO 38740 --- [FoodOrder] [RMI TCP Connection(43)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : test - Shutdown completed.
+2025-07-13T23:08:19.299+05:30  INFO 34628 --- [FoodOrder] [main] com.incture.food.FoodOrderApplication    : Starting FoodOrderApplication using Java 21.0.6 with PID 34628 (E:\eclipse\eclipse-workspace\FoodOrder\target\classes started by prajw in E:\eclipse\eclipse-workspace\FoodOrder)
+2025-07-13T23:08:19.301+05:30  INFO 34628 --- [FoodOrder] [main] com.incture.food.FoodOrderApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T23:08:19.302+05:30 DEBUG 34628 --- [FoodOrder] [main] o.s.boot.SpringApplication               : Loading source class com.incture.food.FoodOrderApplication
